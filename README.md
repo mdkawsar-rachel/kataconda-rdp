@@ -11,3 +11,4 @@ wget -O Katacoda_Windows81SuperLite.sh https://cutt.ly/dW9d3T1
 chmod +x Katacoda_Windows81SuperLite.sh
 ./Katacoda_Windows81SuperLite.sh 
 ```
+**Credit: Thuonghai**
