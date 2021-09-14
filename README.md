@@ -7,6 +7,6 @@ https://www.katacoda.com/openshift/courses/subsystems/container-internals-lab-2-
 Code:-
 
 sudo su -
-wget -O Katacoda_Windows81SuperLite.sh https://cutt.ly/JW9sGBY
+wget -O Katacoda_Windows81SuperLite.sh https://cutt.ly/RW9dbTj
 chmod +x Katacoda_Windows81SuperLite.sh
 ./Katacoda_Windows81SuperLite.sh 
